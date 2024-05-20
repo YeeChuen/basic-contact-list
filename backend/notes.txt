@@ -1,0 +1,11 @@
+Flask
+    --> the framework used in Python
+
+Flask-SQLAlchemy is an ORM (Object Relational Mapping)
+    --> allow us to connect to a SQL database,
+        and map the entries and sequel into a Python object,
+        so we can operate on these objet easier
+
+flask-cors
+    --> allow us to have cross origin request
+    --> for example (JS request --> Python or Python request --> JS)
