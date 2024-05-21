@@ -2,7 +2,7 @@
 
 This web app is a basic contact list web allow you to perform CRUD operation to modify the contact list.
 
-Learnt and reference from [Tech With Tim](https://github.com/techwithtim/Flask-React-Full-Stack-App)
+Learnt and reference from [Tech With Tim](https://github.com/techwithtim/Flask-React-Full-Stack-App).
 
 ## Project objective
 
